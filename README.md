@@ -217,7 +217,7 @@ This project is open source and available under the [MIT License](https://www.go
 
   * **LinkedIn**: [Swayam Harawade](https://linkedin.com/in/swayam-harawade)
   * **GitHub**: [@Swayam0604](https://github.com/Swayam0604)
-  * **Email**: [Your Email]
+  * **Email**: [swayamharawade0604@gmail.com]
 
 -----
 

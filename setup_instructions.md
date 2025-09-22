@@ -173,5 +173,5 @@ For issues or questions about this database setup, please refer to the main `REA
 
 -----
 
-**Database designed and implemented by Swayam Haravawde**
+**Database designed and implemented by Swayam Harawade**
 **Part of Full Stack Development program at IT Vedant Institute**
