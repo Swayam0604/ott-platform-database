@@ -2,10 +2,11 @@
 
 A comprehensive MySQL database solution for managing streaming platform operations including user management, content catalog, subscriptions, and payment processing.
 
-\!([https://img.shields.io/badge/Database-MySQL-blue](https://img.shields.io/badge/Database-MySQL-blue))
-\!([https://img.shields.io/badge/Tables-20+-green](https://img.shields.io/badge/Tables-20+-green))
-\!([https://img.shields.io/badge/Views-3-orange](https://img.shields.io/badge/Views-3-orange))
-\!([https://img.shields.io/badge/Status-Complete-success](https://img.shields.io/badge/Status-Complete-success))
+![Database](https://img.shields.io/badge/Database-MySQL-blue)
+![Tables](https://img.shields.io/badge/Tables-20+-green)
+![Views](https://img.shields.io/badge/Views-3-orange)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+
 
 -----
 
